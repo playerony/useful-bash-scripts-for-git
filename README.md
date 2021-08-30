@@ -1,1 +1,1 @@
-# useful-bash-scripts-for-git
+# Useful bash scripts for git
